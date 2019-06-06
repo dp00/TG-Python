@@ -1,4 +1,8 @@
-# Gave V2
+#
+# Game V2
+# Slide 38
+#
+
 from random import randint
 
 secret_number = randint(1, 10)

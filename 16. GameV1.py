@@ -1,5 +1,7 @@
+#
 # Game 1
-
+# Slide 37
+#
 secret_number = 7
 
 guess = input("What number am I thinking of? ")

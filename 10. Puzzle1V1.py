@@ -1,3 +1,8 @@
+#
+# Puzzle 1
+# Slide 28
+#
+
 ninjas = 3*25
 samurai = 2*40
 warriors = ninjas+samurai

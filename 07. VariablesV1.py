@@ -1,4 +1,7 @@
+#
 # Variables
+# Slide 22, 23, 25
+#
 donuts =12 * 12
 print(donuts)
 

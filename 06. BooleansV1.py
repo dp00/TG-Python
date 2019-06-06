@@ -1,4 +1,7 @@
+#
 # Booleans
+# Slide 21
+#
 
 print(16 * 2 == 32)
 print(16 != 16)

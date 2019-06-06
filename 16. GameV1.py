@@ -4,7 +4,7 @@
 #
 secret_number = 7
 
-guess = input("What number am I thinking of? ")
+guess = int(input("What number am I thinking of? "))
 
 if int(guess) == secret_number:
     print("Yay! You got it.")

@@ -22,7 +22,7 @@ while guesses_left > 0:
     else:
         print("No, that's too high.")
         
-# You’ve lost. Game Over
+# Youâ€™ve lost. Game Over
     if(guesses_left == 0):
         print("You're out of guesses, the number was "+str(secret_number))
 

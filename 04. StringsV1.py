@@ -1,3 +1,7 @@
+#
+# Strings - Slide 19
+#
+
 #Concatenation:
 print("Hi" + "there!")
 

@@ -1,6 +1,6 @@
 #
 # Games 
-#
+# Slide 40
 #
 
 from random import randint

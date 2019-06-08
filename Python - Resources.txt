@@ -1,0 +1,52 @@
+Python Tutorials
+
+Python basics from the Philadelphia Python Workshop
+Install and run files https://openhatch.org/wiki/Philadelphia_Python_Workshop/Setup
+
+Basic tutorial https://openhatch.org/wiki/Philadelphia_Python_Workshop/Setup/Tutorial
+
+Python for Kids http://jasonrbriggs.com/python-for-kids/
+
+The Python Tutorial: http://docs.python.org/tutorial/
+
+Coding Bat http://codingbat.com/home/bostonpythonworkshop@gmail.com/
+
+Code Academy https://www.codecademy.com/catalog/language/python 
+
+PySchools http://www.pyschools.com/
+
+Learning Python the Hard Way: http://learnpythonthehardway.org/
+
+The Programming Historian: http://programminghistorian.org/
+
+Think Python: http://openbookproject.net/thinkcs/python/english2e/ . 
+This tutorial does a particularly good job of introducing programming concepts and terminology.
+
+Work through the Boston Python workshop http://bit.ly/rua5ji
+
+Python Koans: https://github.com/gregmalcolm/python_koans  
+"an interactive tutorial for learning Python by making tests pass"
+
+Udemy tutorial: https://www.udemy.com/pythonforbeginnersintro/
+
+Frameworks & Extensions
+If you want to build websites in Python, have a look at Django: https://www.djangoproject.com/.  
+They have great installation instructions and a tutorial on the website.
+
+Getting started with Flask (another framework): http://flask.pocoo.org/docs/tutorial/
+
+Data and Python
+Scraping data with Python https://github.com/anthonydb/python-get-started 
+Wrangling data with CSVkit: http://csvkit.readthedocs.org/en/latest/ & http://csvkit.readthedocs.org/en/latest/#tutorial 
+
+If you want to analyze and graph data in Python, check out matplotlib: http://matplotlib.sourceforge.net/ 
+
+Math
+Simple (and notsosimple) mathbased programming puzzles: http://projecteuler.net
+
+Games
+An introduction to Python through writing games: http://inventwithpython.com/chapters/ 
+
+Natural Language Processing
+Natural Language Toolkit  http://nltk.org/
+NLTK Book  http://nltk.org/book/ 
